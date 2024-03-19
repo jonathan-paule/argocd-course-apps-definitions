@@ -20,7 +20,7 @@ spec:
     spec:
       project: default
       source:
-        repoURL: https://github.com/jonathanpaule/argocd-example-apps.gi
+        repoURL: https://github.com/jonathan-paule/argocd-example-apps.git
         targetRevision: master
         path: guestbook
       destination:
